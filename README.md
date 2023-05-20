@@ -9,8 +9,17 @@
 
 - 🌱 I’m currently learning **node js**
 
+- 📫 How to reach me **202151020@iiitvadodara.ac.in**
+
+- ⚡ Fun fact **I am hungry**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/anasadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anasadh" height="30" width="40" /></a>
 <a href="https://twitter.com/anamika_sadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anamika_sadh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anamika-sadh-33936a1b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anamika-sadh-33936a1b6" height="30" width="40" /></a>
 <a href="https://instagram.com/anamika_sadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anamika_sadh" height="30" width="40" /></a>
