@@ -34,9 +34,9 @@
 
 <p align="left"> <a href="https://twitter.com/anamika_sadh" target="blank"><img src="https://img.shields.io/twitter/follow/anamika_sadh?logo=twitter&style=for-the-badge" alt="anamika_sadh" /></a> </p>
  -->
-
+<!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anasadh&theme=onedark)](https://github.com/anasadh/github-profile-trophy)
-<!--  -->
+<!--  --> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasadh&show_icons=true&locale=en&layout=compact" alt="anasadh" /></p>
 
