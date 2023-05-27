@@ -36,7 +36,7 @@
  -->
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anasadh&theme=onedark)](https://github.com/anasadh/github-profile-trophy)
-<!--  --> -->
+<!--  -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasadh&show_icons=true&locale=en&layout=compact" alt="anasadh" /></p>
 
