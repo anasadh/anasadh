@@ -57,11 +57,18 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasadh&show_icons=true&locale=en&layout=compact" alt="anasadh" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anasadh&" alt="anasadh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasadh&show_icons=true&locale=en" alt="anasadh" /></p>
+
+<p >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anasadh&show_icons=true&locale=en" alt="anasadh" />
+</p>
+
+
+<p >
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasadh" alt="anasadh" />
+</p>
+
 
 [![anasadh's GitHub | Stats](https://stats.quine.sh/anasadh/github?theme=light)](https://quine.sh)
-
 
 [![anasadh's GitHub | Languages Over Time](https://stats.quine.sh/anasadh/languages-over-time?theme=light)](https://quine.sh)
