@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anamika Sadh</h1>
 <h3 align="center">A passionate Java Coder, Web developer and Open Source Enthusiast</h3>
 
+<p align="center"><img src="hello.gif" height="255px" width="380"></p>
+<h2><img src="girl icon.png" height="30px" width="30px"> About Me</h2>
+
 - 🌱 I’m currently learning **Express js**
 
 - 👯 I’m looking to collaborate on **Backend development**
